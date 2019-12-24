@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ac483c0-c1b8-4dd0-8256-58642096ac65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/ThuHanh/MoTaThuaToanCoCauTrucLap/ThuatToanCauTrucLap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/ThuHanh/MoTaThuatToanCoCauTrucDieuKien/ThuatToanCauTrucDieuKien.png" afterDir="false" />
+    <list default="true" id="0ac483c0-c1b8-4dd0-8256-58642096ac65" name="Default Changelist" comment="hoanthanhbt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/ThuHanh/MoTaThuaToanCoCauTrucLap/ThuatToanCauTrucLap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/ThuHanh/MoTaThuatToanCoCauTrucDieuKien/ThuatToanCauTrucDieuKien.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,7 @@
       <workItem from="1577088326675" duration="71000" />
       <workItem from="1577088794863" duration="241000" />
       <workItem from="1577103116923" duration="43000" />
-      <workItem from="1577159413722" duration="2957000" />
+      <workItem from="1577159413722" duration="4092000" />
     </task>
     <task id="LOCAL-00001" summary="demo commit">
       <created>1577076666781</created>
@@ -64,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577076666781</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="demo commit">
+      <created>1577162456775</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577162456775</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,13 +94,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="391" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1577161031327" />
-    <state x="286" y="0" key="CommitChangelistDialog2" timestamp="1577076672917">
+    <state x="286" y="0" key="CommitChangelistDialog2" timestamp="1577162696727">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="286" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577076672917" />
+    <state x="286" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577162696727" />
     <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1577103147475">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577103147475" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1577162461552">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577162461552" />
   </component>
 </project>
