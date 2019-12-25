@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ac483c0-c1b8-4dd0-8256-58642096ac65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh/TH6_HienThiDauRa/bt1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh/TH6_HienThiDauRa/bt2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh/TH6_HienThiDauRa/bt3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/ThucHanh/TH6_HienThiDauRa/bt4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B2_BienKieuDuLieuvaToanTu/ThucHanh/bt_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B2_BienKieuDuLieuvaToanTu/ThucHanh/bt_2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +24,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VMxA9wWNhREhB0pxXiIyOptjSo" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -67,7 +67,8 @@
       <workItem from="1577088794863" duration="241000" />
       <workItem from="1577103116923" duration="43000" />
       <workItem from="1577159413722" duration="4627000" />
-      <workItem from="1577235406457" duration="7652000" />
+      <workItem from="1577235406457" duration="8473000" />
+      <workItem from="1577268592088" duration="1827000" />
     </task>
     <task id="LOCAL-00001" summary="demo commit">
       <created>1577076666781</created>
