@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ac483c0-c1b8-4dd0-8256-58642096ac65" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/BT2_MoTaThuatToanTinhDiemTrungBinh/ChuyenNhietDo.png" beforeDir="false" afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/BT1_MoTaThuatToanTinhDiemTrungBinh/ChuyenNhietDo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/BT2_MoTaThuatToanTinhDiemTrungBinh/DoanSo.png" beforeDir="false" afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/BT1_MoTaThuatToanTinhDiemTrungBinh/DoanSo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/BT3_MotTaThuatToanCoCauTrucDienKien/Untitled Diagram (4).png" beforeDir="false" afterPath="$PROJECT_DIR$/B1_NhapMonLapTrinhCanBan/BaiTap/BT2_MoTaThuatToanChuyenDoiTienTe/ChuyenDoiTienTe.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +54,7 @@
       <workItem from="1577088794863" duration="241000" />
       <workItem from="1577103116923" duration="43000" />
       <workItem from="1577159413722" duration="4627000" />
-      <workItem from="1577235406457" duration="560000" />
+      <workItem from="1577235406457" duration="1322000" />
     </task>
     <task id="LOCAL-00001" summary="demo commit">
       <created>1577076666781</created>
@@ -89,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577163701784</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="hoanthanhbt update">
+      <created>1577235979081</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577235979082</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,7 +117,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="demo commit" />
     <MESSAGE value="hoanthanhbt" />
-    <option name="LAST_COMMIT_MESSAGE" value="hoanthanhbt" />
+    <MESSAGE value="hoanthanhbt update" />
+    <option name="LAST_COMMIT_MESSAGE" value="hoanthanhbt update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="391" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577161031327">
