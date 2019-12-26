@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ac483c0-c1b8-4dd0-8256-58642096ac65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/B2_BienKieuDuLieuvaToanTu/ThucHanh/khaibaoBienVaSuDungBien/bt_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B2_BienKieuDuLieuvaToanTu/ThucHanh/SuDungToanTu/SuDungToanTu1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B2_BienKieuDuLieuvaToanTu/ThucHanh/SuDungToanTu/toantu.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +15,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -69,6 +70,7 @@
       <workItem from="1577235406457" duration="8473000" />
       <workItem from="1577268592088" duration="3210000" />
       <workItem from="1577289182816" duration="2130000" />
+      <workItem from="1577322847731" duration="2041000" />
     </task>
     <task id="LOCAL-00001" summary="demo commit">
       <created>1577076666781</created>
@@ -163,10 +165,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="hoanthanhbt update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="391" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577161031327">
+    <state x="391" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577330234386">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1577161031327" />
+    <state x="391" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1577330234386" />
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577246608767">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
