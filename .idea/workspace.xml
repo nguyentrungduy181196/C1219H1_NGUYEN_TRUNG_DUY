@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ac483c0-c1b8-4dd0-8256-58642096ac65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/B2_BienKieuDuLieuvaToanTu/BaiTap/BienKieuDuLieuVaToanTu/bt2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B2_BienKieuDuLieuvaToanTu/BaiTap/BienKieuDuLieuVaToanTu/bt3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B2_BienKieuDuLieuvaToanTu/BaiTap/BienKieuDuLieuVaToanTu/bt4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B2_BienKieuDuLieuvaToanTu/BaiTap/BienKieuDuLieuVaToanTu/chuvi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B2_BienKieuDuLieuvaToanTu/BaiTap/BienKieuDuLieuVaToanTu/do.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B2_BienKieuDuLieuvaToanTu/BaiTap/BienKieuDuLieuVaToanTu/hinhtron.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B2_BienKieuDuLieuvaToanTu/BaiTap/UngDungChuyenDoiTienTe/chuyendoitiente.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -75,7 +70,7 @@
       <workItem from="1577268592088" duration="3210000" />
       <workItem from="1577289182816" duration="2130000" />
       <workItem from="1577322847731" duration="5962000" />
-      <workItem from="1577408547784" duration="3426000" />
+      <workItem from="1577408547784" duration="7650000" />
     </task>
     <task id="LOCAL-00001" summary="demo commit">
       <created>1577076666781</created>
@@ -182,10 +177,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="286" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577245655358" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1577103147475">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1577416418633">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577103147475" />
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577416418633" />
     <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1577237208790">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>chuyendoitiente</title>
+</head>
+<body>
+<form>
+    so tien:
+    <input type="text" id="soTien">
+    tu:
+    <select id="chonTu">
+        <option value="VN">Viet Nam</option>
+        <option value="US">USD</option>
+    </select>
+    sang:
+    <select id="chonSang">
+        <option value="VN">Viet Nam</option>
+        <option value="US">USD</option>
+    </select>
+    <button onclick="chuyenDoi();return false">chuyen doi</button>
+</form>
+<p id="ketQua">HELLO</p>
+<script>
+    function chuyenDoi() {
+        let soTien = document.getElementById("soTien").value;
+        let chonTu = document.getElementById("chonTu").value;
+        let chonSang = document.getElementById("chonSang").value;
+        let ketQua = document.getElementById("ketQua");
+        if(chonTu == "VN" && chonSang =="US"){
+            ketQua.innerText = soTien / 23000
+        }
+        else if (chonTu == "US" && chonSang == "VN"){
+            ketQua.innerText = soTien * 23000
+        }
+        else if(chonTu == "VN" && chonSang == "VN"){
+            ketQua.innerText = soTien
+        }
+        else if(chonTu =="US" && chonSang =="US"){
+            ketQua.innerText = soTien
+        }
+
+
+    }
+</script>
+</body>
+</html>
