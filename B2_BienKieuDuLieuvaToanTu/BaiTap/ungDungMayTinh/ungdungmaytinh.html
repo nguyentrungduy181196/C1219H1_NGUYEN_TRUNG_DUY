@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ungdungmaytinh</title>
+</head>
+<form>
+    <h1>CACULATAR</h1>
+    <input type="text" id="so1">
+    <input type="text" id="so2"> <br>
+    <button onclick="cong();return false">addititon(+)</button>
+    <button onclick="tru();return false">subtraction(-)</button>
+    <button onclick="nhan();return false">multiplication(X)</button>
+    <button onclick="chia();return false">division(/)</button>
+    <p id="result"></p>
+</form>
+<script>
+    function cong() {
+        let so1 = document.getElementById("so1").value
+        let so2 = document.getElementById("so2").value
+        //document.getElementById("result").innerText = so1*1   + so2*1 ;
+
+        alert(parseInt(so1)+parseInt(so2))
+
+
+    }
+
+    function tru() {
+        let so1 = document.getElementById("so1").value
+        let so2 = document.getElementById("so2").value
+        //document.getElementById("result").innerText = so1*1   - so2*1  ;
+        alert(parseInt(so1)-parseInt(so2))
+
+
+    }
+
+    function nhan() {
+        let so1 = document.getElementById("so1").value
+        let so2 = document.getElementById("so2").value
+        //document.getElementById("result").innerText = so1*1  * so2*1  ;
+        alert(parseInt(so1)*parseInt(so2))
+
+    }
+
+    function chia() {
+        let so1 = document.getElementById("so1").value
+        let so2 = document.getElementById("so2").value
+        if (so2 * 1 === 0) {
+            //document.getElementById("result").innerText = "khong xd"
+            alert(parseInt(so1)/parseInt(so2))
+        } else {
+           // document.getElementById("result").innerText = so1*1 / so2*1 ;
+            alert(parseInt(so1)/parseInt(so2))
+        }
+
+    }
+
+</script>
+<body>
+
+</body>
+</html>
