@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ac483c0-c1b8-4dd0-8256-58642096ac65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/B2_BienKieuDuLieuvaToanTu/BaiTap/BienKieuDuLieuVaToanTu/bt1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B2_BienKieuDuLieuvaToanTu/BaiTap/BienKieuDuLieuVaToanTu/diem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B2_BienKieuDuLieuvaToanTu/BaiTap/BienKieuDuLieuVaToanTu/bt2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B2_BienKieuDuLieuvaToanTu/BaiTap/BienKieuDuLieuVaToanTu/bt3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B2_BienKieuDuLieuvaToanTu/BaiTap/BienKieuDuLieuVaToanTu/bt4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B2_BienKieuDuLieuvaToanTu/BaiTap/BienKieuDuLieuVaToanTu/chuvi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B2_BienKieuDuLieuvaToanTu/BaiTap/BienKieuDuLieuVaToanTu/do.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B2_BienKieuDuLieuvaToanTu/BaiTap/BienKieuDuLieuVaToanTu/hinhtron.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +75,7 @@
       <workItem from="1577268592088" duration="3210000" />
       <workItem from="1577289182816" duration="2130000" />
       <workItem from="1577322847731" duration="5962000" />
+      <workItem from="1577408547784" duration="3426000" />
     </task>
     <task id="LOCAL-00001" summary="demo commit">
       <created>1577076666781</created>
