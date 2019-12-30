@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ac483c0-c1b8-4dd0-8256-58642096ac65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Admin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B3_CauTrucDieuKien/BaiTap/CauLenhSwitch-case/bt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B3_CauTrucDieuKien/BaiTap/MayTinhDonGian/file_nhap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B3_CauTrucDieuKien/BaiTap/MayTinhDonGian/maytinh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B3_CauTrucDieuKien/BaiTap/UngDungVoiDoYouLoveMy/doyoulovemy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B3_CauTrucDieuKien/BaiTap/UngDungVoiDoYouLoveMy/youmy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B3_CauTrucDieuKien/BaiTap/tinhTiSoCanNangCothe/cannang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B4_CauTrucLap/ThucHanh/SuDungVongLapFor/bt1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B4_CauTrucLap/ThucHanh/SuDungVongLapFor/bt2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B4_CauTrucLap/ThucHanh/SuDungVongLapWhile/bt_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B4_CauTrucLap/ThucHanh/SuDungVongLapWhile/bt_2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudy/Task1/task1.html" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/Task1/task1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B3_CauTrucDieuKien/BaiTap/UngDungVoiDoYouLoveMy/doyoulovemy.html" beforeDir="false" afterPath="$PROJECT_DIR$/B3_CauTrucDieuKien/BaiTap/UngDungVoiDoYouLoveMy/doyoulovemy.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +77,7 @@
       <workItem from="1577322847731" duration="5962000" />
       <workItem from="1577408547784" duration="13707000" />
       <workItem from="1577601116778" duration="1508000" />
-      <workItem from="1577625744568" duration="30058000" />
+      <workItem from="1577625744568" duration="34481000" />
     </task>
     <task id="LOCAL-00001" summary="demo commit">
       <created>1577076666781</created>
