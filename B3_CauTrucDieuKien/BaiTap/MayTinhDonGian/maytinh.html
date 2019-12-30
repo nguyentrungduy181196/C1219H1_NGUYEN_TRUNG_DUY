@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>maytinhdongian</title>
+</head>
+<body>
+    <input id="ketQua" placeholder="0" style="text-align: right"> </br>
+
+
+    <script>
+        // function nhapdulieu(giatri) {
+        //     let ketQua = document.getElementById('ketQua');
+        //     ketQua.value = giatri;
+        // }
+        function nhapdulieu(giatri) {
+            document.getElementById('ketQua').value = document.getElementById('ketQua').value + giatri;
+        }
+
+        // function pheptinh(tinhtoan) {
+        //     let ketQua = document.getElementById('ketQua') ;
+        //     ketQua.value = tinhtoan;
+        // }
+        function tinh() {
+            return document.getElementById('ketQua').value = eval(document.getElementById('ketQua').value);
+        }
+
+        function reset() {
+            document.getElementById("ketQua").value = '';
+        }
+
+
+    </script>
+
+</body>
+</html>
+
