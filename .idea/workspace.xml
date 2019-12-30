@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ac483c0-c1b8-4dd0-8256-58642096ac65" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/B3_CauTrucDieuKien/Thuchanh/LuyentapVoiToanTu/bt_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B3_CauTrucDieuKien/Thuchanh/LuyentapVoiToanTu/bt_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B3_CauTrucDieuKien/Thuchanh/SuKienChuot/sukienchuot.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B3_CauTrucDieuKien/Thuchanh/LuyenTapVoiCauTrucSwitch..case/b3.html" beforeDir="false" afterPath="$PROJECT_DIR$/B3_CauTrucDieuKien/Thuchanh/LuyenTapVoiCauTrucSwitch..case/b3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +75,7 @@
       <workItem from="1577322847731" duration="5962000" />
       <workItem from="1577408547784" duration="13707000" />
       <workItem from="1577601116778" duration="1508000" />
-      <workItem from="1577625744568" duration="247000" />
+      <workItem from="1577625744568" duration="10274000" />
     </task>
     <task id="LOCAL-00001" summary="demo commit">
       <created>1577076666781</created>
