@@ -5,22 +5,35 @@
     <title>maytinhdongian</title>
 </head>
 <body>
-    <input id="ketQua" placeholder="0" style="text-align: right"> </br>
+    <input  id="ketQua" placeholder="0" style="text-align: right"> </br>
+    <button type="button" onclick="nhapdulieu(this.value)" value="1">1</button>
+    <button type="button" onclick="nhapdulieu(this.value)" value="2">2</button>
+    <button type="button" onclick="nhapdulieu(this.value)" value="3">3</button>
+    <button type="button" onclick="nhapdulieu(this.value)"       value="+">+</button></br>
+
+    <button type="button" onclick="nhapdulieu(this.value)" value="4">4</button>
+    <button type="button" onclick="nhapdulieu(this.value)" value="5">5</button>
+    <button type="button" onclick="nhapdulieu(this.value)" value="6">6</button>
+    <button type="button" onclick="nhapdulieu(this.value)"       value="-">-</button></br>
+
+    <button type="button" onclick="nhapdulieu(this.value)" value="7">7</button>
+    <button type="button" onclick="nhapdulieu(this.value)" value="8">8</button>
+    <button type="button" onclick="nhapdulieu(this.value)" value="9">9</button>
+    <button type="button" onclick="nhapdulieu(this.value)"       value="*">x</button></br>
+
+    <button type="button" onclick="reset()"  >C</button>
+    <button type="button" onclick="nhapdulieu(this.value)" value="0">0</button>
+    <button type="button" onclick="tinh()"       value="=">=</button>
+    <button type="button" onclick="nhapdulieu(this.value)"       value="/">/</button>
+
 
 
     <script>
-        // function nhapdulieu(giatri) {
-        //     let ketQua = document.getElementById('ketQua');
-        //     ketQua.value = giatri;
-        // }
+
         function nhapdulieu(giatri) {
             document.getElementById('ketQua').value = document.getElementById('ketQua').value + giatri;
         }
 
-        // function pheptinh(tinhtoan) {
-        //     let ketQua = document.getElementById('ketQua') ;
-        //     ketQua.value = tinhtoan;
-        // }
         function tinh() {
             return document.getElementById('ketQua').value = eval(document.getElementById('ketQua').value);
         }

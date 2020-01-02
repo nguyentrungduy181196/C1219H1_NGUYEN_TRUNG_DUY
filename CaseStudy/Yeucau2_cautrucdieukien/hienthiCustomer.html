@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hien thi </title>
+</head>
+<body>
+<script >
+    let namecustomer = "Nguyễn Trung Duy";
+    let idcard = "212827125";
+    let birthdaycustomer = "18/11/1996";
+    let emaillcustomer = "nguyentrungduy181196@gmail.com";
+    let addresscustomer ="Quảng Ngãi";
+    let typecustomer ="dimo";
+    let discount= 15 ;
+    let numberofaccompanying = 2;
+    let typerome ="vip" ;
+    let rentdays = 15;
+    let typeservice = "villa";
+    let chon =  prompt("menu"+
+       "\n 1.show information"+
+       "\n 2.Edit Information Customer"+
+       "\n 3.Show the amount to be paid after discount"
+    );
+    switch (chon) {
+        case "1":
+            alert(
+                "information of customer : "+
+                "\n name: " +namecustomer +
+                "\n idcard: " + idcard +
+                "\n birthday: " + birthdaycustomer +
+                "\n emaill: " + emaillcustomer +
+                "\n address: " + addresscustomer +
+                "\n type curtomer: " + typecustomer +
+                "\n discount: " + discount +
+                "\n accompanying:  " + addresscustomer +
+                "\n type room: " + typerome +
+                "\n rent days:  " + rentdays +
+                "\n type service: " + typeservice
+            )
+            break;
+        case "2":
+            let chonsua = prompt(
+                "chon vào Edit Information Customer : \n" +
+                "\n1 name: " +namecustomer +
+                "\n2 idcard: " + idcard +
+                "\n3 birthday: " + birthdaycustomer +
+                "\n4 emaill: " + emaillcustomer +
+                "\n5 address: " + addresscustomer +
+                "\n6 type curtomer: " + typecustomer +
+                "\n7 d  iscount: " + discount +
+                "\n8 accompanying:  " + numberofaccompanying +
+                "\n9 type room: " + typerome +
+                "\n10 rent days:  " + rentdays +
+                "\n11 type service: " + typeservice
+            );
+         switch (chonsua) {
+             case "1":
+                 namecustomer = prompt("enter name  you want edit: ");
+                 break;
+             case "2":
+                 idcard = prompt("enter idcard  you want edit: ");
+                 break;
+             case "3":
+                 birthdaycustomer = prompt("enter birthdaycustomer  you want edit: (dd/mm/yyyy) ");
+                 break;
+             case "4":
+                 emaillcustomer = prompt("enter emaillcustomer  you want edit: ");
+                 break;
+             case "5":
+                 addresscustomer = prompt("enter addresscustomer  you want edit: ");
+                 break;
+             case "6":
+                 typecustomer = prompt("enter typecustomer  you want edit: ");
+                 break;
+             case "7":
+                 discount = prompt("enter discount  you want edit: ");
+                 break;
+             case "8":
+                 numberofaccompanying = prompt("enter numberofaccompanying you want edit: ");
+                 break;
+             case "9":
+                 typerome = prompt("enter typerome  you want edit: ");
+                 break;
+             case "10":
+                 rentdays = prompt("enter rentdays  you want edit: ");
+                 break;
+             case "11":
+                 typeservice= prompt("enter typeservice  you want edit: ");
+                 break;
+             default:
+                alert("Fail||| ");
+                break;
+         }
+            alert(
+                "information of customer : "+
+                "\n name: " +namecustomer +
+                "\n idcard: " + idcard +
+                "\n birthday: " + birthdaycustomer +
+                "\n emaill: " + emaillcustomer +
+                "\n address: " + addresscustomer +
+                "\n type curtomer: " + typecustomer +
+                "\n discount: " + discount +
+                "\n accompanying:  " + addresscustomer +
+                "\n type room: " + typerome +
+                "\n rent days:  " + rentdays +
+                "\n type service: " + typeservice
+            )
+    }
+
+
+
+</script>
+<script src="demo2.js"></script>
+</body>
+</html>
