@@ -11,11 +11,11 @@
     let birthdaycustomer = "18/11/1996";
     let emaillcustomer = "nguyentrungduy181196@gmail.com";
     let addresscustomer ="Quảng Ngãi";
-    let typecustomer ="dimo";
-    let discount= 15 ;
+    let typecustomer ="Diamond";
+    let discount= 10 ;
     let numberofaccompanying = 2;
     let typerome ="vip" ;
-    let rentdays = 15;
+    let rentdays = 10;
     let typeservice = "villa";
     let chon =  prompt("menu"+
        "\n 1.show information"+
@@ -105,8 +105,64 @@
                 "\n type room: " + typerome +
                 "\n rent days:  " + rentdays +
                 "\n type service: " + typeservice
-            )
+            );
+            break;
+        case "3":
+            let moneypetdays = 0;
+            if (typeservice === "villa"){
+                moneypetdays = 500;
+            }
+            else if (typeservice === "house"){
+                moneypetdays = 300;
+            }
+            else {
+                moneypetdays = 100;
+            }
+            let discountcondition = 0;
+            let currentYear = new Date().getFullYear();
+            let birthday = new Date(birthdayCustomer).getFullYear();
+            let ageCustomer = currentYear - birthday;
+            if (addresscustomer === "da nang"){
+                discountcondition +=20;
+                if (ageCustomer > 30){
+                    discountcondition +=2;
+                }
+                else if (discountcondition >=20){
+                    discountcondition +=1;
+                }
+
+            }else if (addresscustomer ==="hue"){
+                discountcondition += 10;
+            }else if (addresscustomer === "quangnam"){
+                discountcondition +=5;
+            }
+            if (rentdays >7){
+                discountcondition +=30;
+            }else if (rentdays >=5){
+                discountcondition +=20;
+            }else if (rentdays >=2){
+                discountcondition +=10;
+            }
+            if (typecustomer === "Diamond"){
+                discountcondition +=15;
+            }else if (typecustomer === "Platium"){
+                discountcondition +=10;
+            }else if (typecustomer === "Gold"){
+                discountcondition +=5;
+            }else if (typecustomer === "Silver"){
+                discountcondition +=2;
+            }
+            let totalpays = moneypetdays *  (rentdays) * (1 - (discount)/100);
+            totalpays = totalpays - discountcondition;
+            alert("total pays after discount condition: " + totalpays);
+
+
+            break;
+          default:
+            alert("fail!!!");
+            break;
     }
+
 
 
 
