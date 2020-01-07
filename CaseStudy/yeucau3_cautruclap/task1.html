@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hien thi </title>
+</head>
+<body>
+<script >
+    let checkvalidate = false;
+    let emaillcustomer;
+    let birthdaycustomer;
+    // let namecustomer = "Nguyễn Trung Duy";
+    // let idcard = "212827125";
+    // let birthdaycustomer = "18/11/1996";
+    do {
+        checkvalidate = false;
+        birthdaycustomer = prompt("enter birthdaycustomer: (dd/mm/yyyy) ");
+        if (birthdaycustomer.charAt(2) !== "/" || birthdaycustomer.charAt(s) !== "/"){
+            alert("birthday is invalid !!! please try again !!!");
+            continue;
+        }
+        let day = birthdaycustomer.substring(0,2);
+        let month = birthdaycustomer.substring(3,5);
+        let year = birthdaycustomer.substring(6,10);
+        if(!isNaN(day) && !isNaN(month) && !isNaN(year)){
+            day = number.parseFloat(day);
+            month = number.parseFloat(month);
+            year= number.parseFloat(year);
+            if(number.isInteger(day) && number.isInteger(month) &&number.isInteger(year) ){
+                if (day >0 && day <32 && month <13 && month > 0 && year >=1960 && year<=2020){
+                    checkvalidate = true;
+                }
+            }
+        }
+        if (checkvalidate){
+            alert("birthday is invalid !!! please try again !!!");
+        }
+
+    }while (checkvalidate)
+    do {
+        checkvalidate = true;
+        emaillcustomer =  prompt("enter email customer: ");
+        let countdoc = 0;
+        let countat = 0;
+        for (let i =0; i < emaillcustomer.length; i++){
+            if (emaillcustomer.charAt(i) === "@"){
+                countat ++;
+            }
+            if (emaillcustomer.charAt(i)  === "."){
+                countdoc ++;
+        }
+            if (countat !==1 || countdoc <1){
+            checkvalidate = false;
+            alert("email is invaid ||| please try again");
+            }
+        }
+    }while (checkvalidate);
+    // let addresscustomer ="Quảng Ngãi";
+    // let typecustomer ="Diamond";
+    // let discount= 10 ;
+    // let numberofaccompanying = 2;
+    // let typerome ="vip" ;
+    // let rentdays = 10;
+    // let typeservice = "villa";
+    // let chon =  prompt("menu"+
+    //     "\n 1.show information"+
+    //     "\n 2.Edit Information Customer"+
+    //     "\n 3.Show the amount to be paid after discount"
+    // );
+    // switch (chon) {
+    //     case "1":
+    //         alert(
+    //             "information of customer : "+
+    //             "\n name: " +namecustomer +
+    //             "\n idcard: " + idcard +
+    //             "\n birthday: " + birthdaycustomer +
+    //             "\n emaill: " + emaillcustomer +
+    //             "\n address: " + addresscustomer +
+    //             "\n type curtomer: " + typecustomer +
+    //             "\n discount: " + discount +
+    //             "\n accompanying:  " + addresscustomer +
+    //             "\n type room: " + typerome +
+    //             "\n rent days:  " + rentdays +
+    //             "\n type service: " + typeservice
+    //         )
+    //         break;
+    //     case "2":
+    //         let chonsua = prompt(
+    //             "chon vào Edit Information Customer : \n" +
+    //             "\n1 name: " +namecustomer +
+    //             "\n2 idcard: " + idcard +
+    //             "\n3 birthday: " + birthdaycustomer +
+    //             "\n4 emaill: " + emaillcustomer +
+    //             "\n5 address: " + addresscustomer +
+    //             "\n6 type curtomer: " + typecustomer +
+    //             "\n7 d  iscount: " + discount +
+    //             "\n8 accompanying:  " + numberofaccompanying +
+    //             "\n9 type room: " + typerome +
+    //             "\n10 rent days:  " + rentdays +
+    //             "\n11 type service: " + typeservice
+    //         );
+    //         switch (chonsua) {
+    //             case "1":
+    //                 namecustomer = prompt("enter name  you want edit: ");
+    //                 break;
+    //             case "2":
+    //                 idcard = prompt("enter idcard  you want edit: ");
+    //                 break;
+    //             case "3":
+    //                 birthdaycustomer = prompt("enter birthdaycustomer  you want edit: (dd/mm/yyyy) ");
+    //                 break;
+    //             case "4":
+    //                 emaillcustomer = prompt("enter emaillcustomer  you want edit: ");
+    //                 break;
+    //             case "5":
+    //                 addresscustomer = prompt("enter addresscustomer  you want edit: ");
+    //                 break;
+    //             case "6":
+    //                 typecustomer = prompt("enter typecustomer  you want edit: ");
+    //                 break;
+    //             case "7":
+    //                 discount = prompt("enter discount  you want edit: ");
+    //                 break;
+    //             case "8":
+    //                 numberofaccompanying = prompt("enter numberofaccompanying you want edit: ");
+    //                 break;
+    //             case "9":
+    //                 typerome = prompt("enter typerome  you want edit: ");
+    //                 break;
+    //             case "10":
+    //                 rentdays = prompt("enter rentdays  you want edit: ");
+    //                 break;
+    //             case "11":
+    //                 typeservice= prompt("enter typeservice  you want edit: ");
+    //                 break;
+    //             default:
+    //                 alert("Fail||| ");
+    //                 break;
+    //         }
+    //         alert(
+    //             "information of customer : "+
+    //             "\n name: " +namecustomer +
+    //             "\n idcard: " + idcard +
+    //             "\n birthday: " + birthdaycustomer +
+    //             "\n emaill: " + emaillcustomer +
+    //             "\n address: " + addresscustomer +
+    //             "\n type curtomer: " + typecustomer +
+    //             "\n discount: " + discount +
+    //             "\n accompanying:  " + addresscustomer +
+    //             "\n type room: " + typerome +
+    //             "\n rent days:  " + rentdays +
+    //             "\n type service: " + typeservice
+    //         );
+    //         break;
+    //     case "3":
+    //         let moneypetdays = 0;
+    //         if (typeservice === "villa"){
+    //             moneypetdays = 500;
+    //         }
+    //         else if (typeservice === "house"){
+    //             moneypetdays = 300;
+    //         }
+    //         else {
+    //             moneypetdays = 100;
+    //         }
+    //         let discountcondition = 0;
+    //         let currentYear = new Date().getFullYear();
+    //         let birthday = new Date(birthdayCustomer).getFullYear();
+    //         let ageCustomer = currentYear - birthday;
+    //         if (addresscustomer === "da nang"){
+    //             discountcondition +=20;
+    //             if (ageCustomer > 30){
+    //                 discountcondition +=2;
+    //             }
+    //             else if (discountcondition >=20){
+    //                 discountcondition +=1;
+    //             }
+    //
+    //         }else if (addresscustomer ==="hue"){
+    //             discountcondition += 10;
+    //         }else if (addresscustomer === "quangnam"){
+    //             discountcondition +=5;
+    //         }
+    //         if (rentdays >7){
+    //             discountcondition +=30;
+    //         }else if (rentdays >=5){
+    //             discountcondition +=20;
+    //         }else if (rentdays >=2){
+    //             discountcondition +=10;
+    //         }
+    //         if (typecustomer === "Diamond"){
+    //             discountcondition +=15;
+    //         }else if (typecustomer === "Platium"){
+    //             discountcondition +=10;
+    //         }else if (typecustomer === "Gold"){
+    //             discountcondition +=5;
+    //         }else if (typecustomer === "Silver"){
+    //             discountcondition +=2;
+    //         }
+    //         let totalpays = moneypetdays *  (rentdays) * (1 - (discount)/100);
+    //         totalpays = totalpays - discountcondition;
+    //         alert("total pays after discount condition: " + totalpays);
+    //
+    //
+    //         break;
+    //     default:
+    //         alert("fail!!!");
+    //         break;
+    // }
+
+
+
+
+</script>
+<script src="demo3.js"></script>
+</body>
+</html>
