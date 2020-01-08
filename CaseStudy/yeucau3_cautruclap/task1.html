@@ -9,9 +9,24 @@
     let checkvalidate = false;
     let emaillcustomer;
     let birthdaycustomer;
+    let idcard;
+    do {
+        checkvalidate = true;
+        idcard = prompt("enter id card customer: ");
+        if (isNaN(idcard)){
+            alert("id card is invalid please try again |||");
+            continue;
+        }
+        if(idcard >= 1000000000 && idcard <= 999999999){
+            checkvalidate = true;
+        }
+        else {
+            alert("id card is invalid please try again |||");
+        }
+
+    }while ();
     // let namecustomer = "Nguyễn Trung Duy";
     // let idcard = "212827125";
-    // let birthdaycustomer = "18/11/1996";
     do {
         checkvalidate = false;
         birthdaycustomer = prompt("enter birthdaycustomer: (dd/mm/yyyy) ");

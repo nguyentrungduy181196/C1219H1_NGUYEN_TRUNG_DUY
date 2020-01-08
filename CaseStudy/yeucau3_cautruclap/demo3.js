@@ -2,7 +2,7 @@ let totalpays = 500 *  rentdays *(1 -discount/100);
 // alert(
 // //     "information of customer : \n "+
 // //     "name: " +namecustomer +
-// //     " \n idcard: " + idcard +
+     " \n idcard: " + idcard
      "\n birthday: " + birthdaycustomer
     "\n emaill: " + emaillcustomer
 // //     "\n address: " + addresscustomer +
