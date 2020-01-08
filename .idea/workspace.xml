@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ac483c0-c1b8-4dd0-8256-58642096ac65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/B5_Mang/baitap/sudungcachamcosancuamang/bt1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B5_Mang/baitap/sudungcachamcosancuamang/bt2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B5_Mang/baitap/sudungcachamcosancuamang/bt3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B5_Mang/thuchanh/taobancocarodongian/caro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B5_Mang/thuchanh/taobancocarodongian/carosimple.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B5_Mang/thuchanh/timgiatrilonnhattrongmang/giatrilon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B5_Mang/thuchanh/timgiatrilonnhattrongmang/giatrilon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudy/yeucau3_cautruclap/demo3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudy/yeucau3_cautruclap/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_Mang/baitap/tudien/sadsa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_Mang/baitap/tudien/tudien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_Mang/baitap/tudien/tudien.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B5_Mang/baitap/sudungcachamcosancuamang/bt3.html" beforeDir="false" afterPath="$PROJECT_DIR$/B5_Mang/baitap/sudungcachamcosancuamang/bt3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -88,7 +83,9 @@
       <workItem from="1577928273332" duration="10623000" />
       <workItem from="1578239257310" duration="269000" />
       <workItem from="1578275320823" duration="8879000" />
-      <workItem from="1578359085949" duration="6326000" />
+      <workItem from="1578359085949" duration="9153000" />
+      <workItem from="1578445872979" duration="2200000" />
+      <workItem from="1578448277219" duration="244000" />
     </task>
     <task id="LOCAL-00001" summary="demo commit">
       <created>1577076666781</created>
