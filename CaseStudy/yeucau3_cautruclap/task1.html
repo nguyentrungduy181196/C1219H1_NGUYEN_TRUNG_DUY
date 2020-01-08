@@ -10,6 +10,39 @@
     let emaillcustomer;
     let birthdaycustomer;
     let idcard;
+    let numberofaccompanying;
+    let discount;
+    let rentdays;
+    do {
+        checkvalidate= false;
+        rentdays= prompt("Enter Renr Day: ");
+        if (!isNaN(rentdays)){
+            rentdays = Number.parseFloat(rentdays);
+            if (rentdays>0&&Number.isInteger(rentdays)){
+                checkvalidate =true;
+            }
+        }
+    }while (!checkvalidate)
+    do {
+        checkvalidate=false;
+        discount =prompt("Enter Discount: ");
+        if (!isNaN(discount)){
+            discount = Number.parseFloat(discount);
+            if (discount>=0){
+                checkvalidate=true;
+            }
+        }
+    }while (!checkvalidate);
+    do {
+        checkvalidate=false;
+        numberofaccompanying = prompt("Enter Number Of Accompanying: ");
+        if (!isNaN(numberofaccompanying)){
+            numberofaccompanying= number.parseFloat(numberofaccompanying);
+            if (numberofaccompanying>=0&&number.isInteger(numberofaccompanying)){
+               checkvalidate=true;
+            }
+        }
+    }while (!checkvalidate);
     do {
         checkvalidate = true;
         idcard = prompt("enter id card customer: ");
@@ -24,13 +57,11 @@
             alert("id card is invalid please try again |||");
         }
 
-    }while ();
-    // let namecustomer = "Nguyễn Trung Duy";
-    // let idcard = "212827125";
+    }while (!checkvalidate);
     do {
         checkvalidate = false;
         birthdaycustomer = prompt("enter birthdaycustomer: (dd/mm/yyyy) ");
-        if (birthdaycustomer.charAt(2) !== "/" || birthdaycustomer.charAt(s) !== "/"){
+        if (birthdaycustomer.charAt(2) !== "/" || birthdaycustomer.charAt(5) !== "/"){
             alert("birthday is invalid !!! please try again !!!");
             continue;
         }
@@ -51,7 +82,7 @@
             alert("birthday is invalid !!! please try again !!!");
         }
 
-    }while (checkvalidate)
+    }while (!checkvalidate)
     do {
         checkvalidate = true;
         emaillcustomer =  prompt("enter email customer: ");
@@ -69,7 +100,7 @@
             alert("email is invaid ||| please try again");
             }
         }
-    }while (checkvalidate);
+    }while (!checkvalidate);
     // let addresscustomer ="Quảng Ngãi";
     // let typecustomer ="Diamond";
     // let discount= 10 ;

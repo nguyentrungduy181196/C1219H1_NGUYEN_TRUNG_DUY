@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ac483c0-c1b8-4dd0-8256-58642096ac65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/B5_Mang/baitap/tictactoe/cocaro.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B5_Mang/baitap/tictactoe/cocaro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B6_Ham/thuchanh/chuyendoinhietdo/chuyennhietdo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B6_Ham/thuchanh/chuyendoinhietdo/nhietdo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B6_Ham/thuchanh/taovagoiham/goiham.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B6_Ham/thuchanh/taovagoiham/goiham.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B6_Ham/thuchanh/timgiatrinhonhatcuamang/giatrimin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B6_Ham/thuchanh/timgiatrinhonhatcuamang/giatrinhonhat.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B5_Mang/baitap/tictactoe/cocaro.html" beforeDir="false" afterPath="$PROJECT_DIR$/B5_Mang/baitap/tictactoe/cocaro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B5_Mang/baitap/tictactoe/cocaro.js" beforeDir="false" afterPath="$PROJECT_DIR$/B5_Mang/baitap/tictactoe/cocaro.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/B5_Mang/baitap/tudien/tudien.js" beforeDir="false" afterPath="$PROJECT_DIR$/B5_Mang/baitap/tudien/tudien.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CaseStudy/yeucau3_cautruclap/demo3.js" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/yeucau3_cautruclap/demo3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CaseStudy/yeucau3_cautruclap/task1.html" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/yeucau3_cautruclap/task1.html" afterDir="false" />
@@ -86,7 +92,7 @@
       <workItem from="1578275320823" duration="8879000" />
       <workItem from="1578359085949" duration="9153000" />
       <workItem from="1578445872979" duration="2200000" />
-      <workItem from="1578448277219" duration="2928000" />
+      <workItem from="1578448277219" duration="8930000" />
     </task>
     <task id="LOCAL-00001" summary="demo commit">
       <created>1577076666781</created>
@@ -189,6 +195,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1578277890635" />
+    <state x="465" y="44" key="#task1.html" timestamp="1578452334335">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="465" y="44" key="#task1.html/0.0.1366.728@0.0.1366.728" timestamp="1578452334335" />
     <state x="286" y="0" key="CommitChangelistDialog2" timestamp="1577245655358">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
