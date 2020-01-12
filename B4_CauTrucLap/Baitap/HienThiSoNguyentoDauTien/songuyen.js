@@ -7,15 +7,14 @@ let input = parseInt(prompt("nhap vao 1 so: "));
         while (count < m){
             if (issonguyento(i)){
                 str +=  i + " ";
-                count++
+                count++;
             }
-            i++
+            i++;
         }
         document.write(str);
-    }
-    function issonguyento(so) {
+    }function issonguyento(so) {
         for (let i =2; i < so; i++){
-            if (so % i ==0){
+            if (so % i ===0){
                 return false;
             }
         }

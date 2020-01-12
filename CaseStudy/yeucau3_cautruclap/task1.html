@@ -13,6 +13,21 @@
     let numberofaccompanying;
     let discount;
     let rentdays;
+    let namecustomer  = prompt("enter name customer: ");
+    let nameStandadardized = "";
+    namecustomer = namecustomer.trim().toLocaleLowerCase();
+    for (let i =0 ; i <namecustomer.length , i++;){
+        if (namecustomer.charAt(i) === " " && namecustomer.charAt(i + 1) === " "){
+            continue;
+
+        }
+        if (i === 0 || namecustomer.charAt(i - 1) === " "){
+            namecustomer += namecustomer.trim().toLocaleUpperCase();
+            continue;
+        }
+        nameStandadardized += namecustomer.charAt();
+    }
+    namecustomer = nameStandadardized;
     do {
         checkvalidate= false;
         rentdays= prompt("Enter Renr Day: ");

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>yeucau4</title>
+</head>
+<body>
+    <script>
+        let arrNameCustomers = [];
+        let choose = prompt("1.Add New customer." +
+        "\n2.Delete customer.");
+        switch (choose) {
+            case "1":
+                let arrlength = prompt("enter the number of customer you want add: ");
+                for (let i =0; i <arrlength; i++){
+                    arrNameCustomers.push(prompt("enter name customer no" + (i + 1)));
+                }
+                var result = "";
+                for (let i = 0; i <arrNameCustomers.length; i++){
+                    result += "\n" + (i + 1) + "_" + arrNameCustomers[i];
+                }
+                alert(result);
+                arrNameCustomers.sort();
+
+                for (let i = 0; i <arrNameCustomers.length; i++) {
+                    result += "\n" + (i + 1) + "_" + arrNameCustomers[i];
+                }
+                alert(result);
+                break;
+            case "2":
+                // arrNameCustomers[0] = "duy";
+                // arrNameCustomers[1] = "tú";
+                // arrNameCustomers[2] = "quang";
+                // arrNameCustomers[3] = "vũ";
+                // arrNameCustomers[4] = "tuyền";
+                // arrNameCustomers[5] = "phúc";
+                // arrNameCustomers[6] = "nhó";
+                // arrNameCustomers[7] = "đông";
+                // arrNameCustomers[8] = "bảo";
+                // arrNameCustomers[9] = "sơn";
+                // var result = "";
+                // for (let i = 0; i <arrNameCustomers.length; i++){
+                //     result += "\n" + (i + 1) + "_" + arrNameCustomers[i];
+                // }
+                // let indexDelete =  prompt("choose customer you want to delete: " + result);
+                // arrNameCustomers.splice(Number.parseInt(indexDelete) - 1 ,1 );
+                // let resultAfterDelete =  "";
+                // for (let i = 0; i <arrNameCustomers.length; i++){
+                //     resultAfterDelete += "\n" + (i + 1) + "_" + arrNameCustomers[i];
+                // }
+                // alert("list customer after delete: " + resultAfterDelete);
+                break;
+                default :
+                    alert(" Fail  !!!");
+
+        }
+    </script>
+</body>
+</html>
