@@ -2,47 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ac483c0-c1b8-4dd0-8256-58642096ac65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/chuyendoigiuafeetvameters/chuyendoi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/chuyendoigiuafeetvameters/demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/hamktsonguyento/kt1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/hamktsonguyento/songuyento.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham01/bt1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham01/bt2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham01/bt3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham01/bt4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham01/bt5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham01/demo1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham01/demo2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham01/demo4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham01/demo5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham01/dome3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham02/bt_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham02/bt_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham02/bt_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham02/bt_4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham02/bt_5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham02/bt_6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham02/bt_7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham02/bt_8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham02/bt_9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham02/daonguocmangsonguyen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham02/dientichchuvi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham02/doichosonguyen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham02/giaithuasonguyen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham02/hamtinhbinhphuong.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham02/kiemtrakytu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham02/kiemtrasonhapvao.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham02/mangkytuvakiemtra.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B6_Ham/baitap/luyentaptaovasudungham02/nhapsonguyentrargiatrijnhonhat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudy/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudy/yeucau4_mang/task1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudy/yeucau4_mang/task2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/baitap/xaydunglopmotahinhchunhat/hinhchunhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/funnycircles/bt3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/funnycircles/funny.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/xaydunglopdate/bt1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/xaydunglopdate/date.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/xaydunglophinhtron/bt2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/xaydunglophinhtron/hinhtron.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B4_CauTrucLap/Baitap/HienThiSoNguyentoDauTien/songuyen.js" beforeDir="false" afterPath="$PROJECT_DIR$/B4_CauTrucLap/Baitap/HienThiSoNguyentoDauTien/songuyen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B5_Mang/baitap/tictactoe/cocaro.html" beforeDir="false" afterPath="$PROJECT_DIR$/B5_Mang/baitap/tictactoe/cocaro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B5_Mang/baitap/tictactoe/cocaro.js" beforeDir="false" afterPath="$PROJECT_DIR$/B5_Mang/baitap/tictactoe/cocaro.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudy/yeucau3_cautruclap/demo3.js" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/yeucau3_cautruclap/demo3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudy/yeucau3_cautruclap/task1.html" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/yeucau3_cautruclap/task1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +92,8 @@
       <workItem from="1578532061595" duration="2977000" />
       <workItem from="1578618473441" duration="10888000" />
       <workItem from="1578709824680" duration="1102000" />
-      <workItem from="1578815854828" duration="3438000" />
+      <workItem from="1578815854828" duration="3490000" />
+      <workItem from="1578929933704" duration="2598000" />
     </task>
     <task id="LOCAL-00001" summary="demo commit">
       <created>1577076666781</created>
