@@ -2,23 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ac483c0-c1b8-4dd0-8256-58642096ac65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/B8_LapTrinhHuongDoiTuong/baitap/Gamedongiandichuyendoituong/demo1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B8_LapTrinhHuongDoiTuong/baitap/Gamedongiandichuyendoituong/game.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B8_LapTrinhHuongDoiTuong/thuchanh/xaydunglopmophongsuhoatdongcuadenpin/demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B8_LapTrinhHuongDoiTuong/thuchanh/xaydunglopmophongsuhoatdongcuadenpin/denpin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudy/yeucau5_ham/task1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudy/yeucau5_ham/task2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudy/yeucau6_huongdoituong/task.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudy/yeucau6_huongdoituong/task1.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudy/yeucau6_huongdoituong/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B9_XuLyChuoi/baitap/ValidateAccount/Account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B9_XuLyChuoi/baitap/ValidateAccount/demo1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B9_XuLyChuoi/baitap/Validatetencualophoc/demo2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B9_XuLyChuoi/baitap/Validatetencualophoc/lophoc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B9_XuLyChuoi/baitap/validateEmail/baiftap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B9_XuLyChuoi/baitap/validateEmail/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B9_XuLyChuoi/baitap/validatetensodienthoai/demo3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B9_XuLyChuoi/baitap/validatetensodienthoai/dienthoai.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B9_XuLyChuoi/thuchanh/kiemtrakytudautiencuachuoiphaichuhoakhong/kimetra.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B9_XuLyChuoi/thuchanh/kiemtrakytudautiencuachuoiphaichuhoakhong/thuchanh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B9_XuLyChuoi/thuchanh/kiemtramaquocgianuocmy/nuocmy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B9_XuLyChuoi/thuchanh/kiemtramaquocgianuocmy/thuchanh1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/baitap/xaydunglopmotahinhchunhat/hinhchunhat.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/funnycircles/bt3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/funnycircles/funny.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/xaydunglopdate/bt1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/xaydunglopdate/date.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/xaydunglophinhtron/bt2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/xaydunglophinhtron/hinhtron.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudy/yeucau6_huongdoituong/task1.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudy/yeucau6_huongdoituong/task1.1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +120,13 @@
       <workItem from="1580531282901" duration="1793000" />
       <workItem from="1580533130180" duration="1793000" />
       <workItem from="1580534964747" duration="1705000" />
+      <workItem from="1580778448324" duration="1781000" />
+      <workItem from="1580780259492" duration="1782000" />
+      <workItem from="1580782069829" duration="1406000" />
+      <workItem from="1580783594179" duration="35000" />
+      <workItem from="1580783643345" duration="161000" />
+      <workItem from="1580783831737" duration="844000" />
+      <workItem from="1580784699527" duration="1244000" />
     </task>
     <task id="LOCAL-00001" summary="demo commit">
       <created>1577076666781</created>

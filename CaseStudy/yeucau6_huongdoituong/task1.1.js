@@ -1,6 +1,6 @@
 let listCustomer = [];
-let validateBirthday = /^((0)[1-9]|[1-2][0-9]|(3)[0-1])(\/)(((0)[1-9])|((1)[0-2]))\/)\d{4}$;
-let validateEmail =
+let validateBirthday = /^((0)[1-9]|[1-2][0-9]|(3)[0-1])(\/)(((0)[1-9])|((1)[0-2]))\/)\d{4}$/;
+let validateEmail =/^[A-Za-z0-9]+[A-Za-z0-9]*@[A-Za-z0-9]+(\.[A-Za-z0-9]+)$/;
 function displayMainMenu() {
     let choose = prompt(
         "1.Add new customer." +
