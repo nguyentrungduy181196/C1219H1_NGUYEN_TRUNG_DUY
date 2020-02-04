@@ -2,14 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ac483c0-c1b8-4dd0-8256-58642096ac65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/baitap/xaydunglopmotahinhchunhat/hinhchunhat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/funnycircles/bt3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/funnycircles/funny.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/xaydunglopdate/bt1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/xaydunglopdate/date.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/xaydunglophinhtron/bt2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/xaydunglophinhtron/hinhtron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B8_LapTrinhHuongDoiTuong/baitap/Gamedongiandichuyendoituong/demo1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B8_LapTrinhHuongDoiTuong/baitap/Gamedongiandichuyendoituong/game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B8_LapTrinhHuongDoiTuong/thuchanh/xaydunglopmophongsuhoatdongcuadenpin/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B8_LapTrinhHuongDoiTuong/thuchanh/xaydunglopmophongsuhoatdongcuadenpin/denpin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudy/yeucau5_ham/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudy/yeucau5_ham/task2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudy/yeucau6_huongdoituong/task.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudy/yeucau6_huongdoituong/task1.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudy/yeucau6_huongdoituong/task1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/baitap/xaydunglopmotahinhchunhat/hinhchunhat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/funnycircles/bt3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/funnycircles/funny.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/xaydunglopdate/bt1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/xaydunglopdate/date.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/xaydunglophinhtron/bt2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B7_LapTrinhHuongDoiTuong/thuchanh/xaydunglophinhtron/hinhtron.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +29,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -45,6 +54,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="task1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/C1219H1_NGUYEN_TRUNG_DUY/CaseStudy/yeucau5_ham/task1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.task1.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -93,7 +112,17 @@
       <workItem from="1578618473441" duration="10888000" />
       <workItem from="1578709824680" duration="1102000" />
       <workItem from="1578815854828" duration="3490000" />
-      <workItem from="1578929933704" duration="2598000" />
+      <workItem from="1578929933704" duration="12493000" />
+      <workItem from="1579055869456" duration="6751000" />
+      <workItem from="1580520172930" duration="1792000" />
+      <workItem from="1580521991702" duration="1794000" />
+      <workItem from="1580523970113" duration="1789000" />
+      <workItem from="1580525780627" duration="1175000" />
+      <workItem from="1580527592198" duration="619000" />
+      <workItem from="1580529219199" duration="1768000" />
+      <workItem from="1580531282901" duration="1793000" />
+      <workItem from="1580533130180" duration="1793000" />
+      <workItem from="1580534964747" duration="1705000" />
     </task>
     <task id="LOCAL-00001" summary="demo commit">
       <created>1577076666781</created>
@@ -188,10 +217,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="hoanthanhbt update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="391" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577606201614">
+    <state x="391" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579062164221">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1577606201614" />
+    <state x="391" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1579062164221" />
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578277890635">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -216,6 +245,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577237208790" />
+    <state x="380" y="0" width="606" height="728" key="find.popup" timestamp="1579055880381">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="0" width="606" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1579055880381" />
     <state x="346" y="49" key="search.everywhere.popup" timestamp="1577764627022">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
